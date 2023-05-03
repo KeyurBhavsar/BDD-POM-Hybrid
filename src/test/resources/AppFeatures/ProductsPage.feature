@@ -1,4 +1,3 @@
-#Author: LinkedIn: www.linkedin.com/in/yash-hirpara04
 
 Feature: Products detail
 
