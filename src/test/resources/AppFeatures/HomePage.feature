@@ -1,4 +1,3 @@
-#Author: Yash Hirpara
 
 Feature: Home Page feature
 
